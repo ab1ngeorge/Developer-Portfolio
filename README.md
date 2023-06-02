@@ -1,4 +1,4 @@
-# DeveloperPortfolio
+# Developer -Portfolio
 
 Hello! My name is Abin George, and I am a software developer. With a strong background in computer engineering and a passion for technology, I have developed a diverse skill set in programming languages and web development. Throughout my educational journey and professional experiences, I have honed my skills and gained practical knowledge in various areas of software development.
 
