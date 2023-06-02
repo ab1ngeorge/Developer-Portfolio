@@ -37,7 +37,7 @@ Skills:
   Platforms: Windows, Linux, MacOS, Android
 
 
-Contact Information:
+✆Contact Information:
 
 Phone: 8547216321
 
