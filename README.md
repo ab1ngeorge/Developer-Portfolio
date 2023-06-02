@@ -37,6 +37,7 @@ Contact Information:
 
 Phone: 8547216321
 Email: abingeorge248@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/abin-george-617313248
 
 Please feel free to reach out to me through any of the provided contact details for potential inquiries or collaborations. I am open to discussing any opportunities and excited to contribute my skills as a software developer.
