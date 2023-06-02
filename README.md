@@ -27,15 +27,20 @@ Role: I worked independently on this project, handling the entire development pr
 Skills:
 
 Programming Languages: C++, C, Python, Java
+
 Web Development: HTML, CSS, PHP, JavaScript
+
 Frameworks: Flutter, Django
+
 Databases: MySQL, MongoDB
+
 Platforms: Windows, Linux, MacOS, Android
 
 
 Contact Information:
 
 Phone: 8547216321
+
 Email: abingeorge248@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/abin-george-617313248
