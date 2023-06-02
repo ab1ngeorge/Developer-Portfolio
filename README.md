@@ -38,7 +38,7 @@ Skills:
 
 
 
-✆Contact Information:
+Contact Information:
 
 Phone: 8547216321
 
