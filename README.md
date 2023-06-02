@@ -8,17 +8,17 @@ My portfolio serves as a showcase of my work and skills as a software developer.
 
 Projects:
 
-1)Virtual Assistant using NLP and Machine Learning:
+1) Virtual Assistant using NLP and Machine Learning:
 Description: This project involved creating a virtual assistant using Natural Language Processing (NLP) and Machine Learning techniques. The assistant can perform various tasks and is designed to be platform-independent.
 Technologies Used: Python, NLP libraries, Machine Learning algorithms.
 Role: I was responsible for the entire project, from designing the architecture to training the model and implementing the functionalities.
 
-2)Attendance Management System:
+2) Attendance Management System:
 Description: The Attendance Management System is a software application developed using Java and MySQL. It allows efficient tracking and management of employee or student attendance.
 Technologies Used: Java, MySQL.
 Role: I was part of a team that developed the system. My responsibilities included designing the database structure, implementing the front-end and back-end functionalities, and ensuring smooth data management.
 
-3)Internet Speed Tester:
+3) Internet Speed Tester:
 Description: This project involved developing a desktop application using Python to measure the speed and quality of internet connections.
 Technologies Used: Python, GUI frameworks.
 Role: I worked independently on this project, handling the entire development process from design to implementation.
