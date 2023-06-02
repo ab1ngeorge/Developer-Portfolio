@@ -26,15 +26,15 @@ Role: I worked independently on this project, handling the entire development pr
 
 Skills:
 
-.Programming Languages: C++, C, Python, Java
+  Programming Languages: C++, C, Python, Java
 
-.Web Development: HTML, CSS, PHP, JavaScript
+  Web Development: HTML, CSS, PHP, JavaScript
 
-.Frameworks: Flutter, Django
+  Frameworks: Flutter, Django
 
-.Databases: MySQL, MongoDB
+  Databases: MySQL, MongoDB
 
-.Platforms: Windows, Linux, MacOS, Android
+  Platforms: Windows, Linux, MacOS, Android
 
 
 Contact Information:
